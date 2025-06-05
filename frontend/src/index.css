@@ -182,8 +182,6 @@ section h2 {
 /* ==== MID-SIZE OVERRIDE (700px–1400px) ==== */
 
 @media (min-width: 700px){
-
-
   #skills {
     min-height: auto !important;
     height: auto !important;
