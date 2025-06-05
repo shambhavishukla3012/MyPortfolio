@@ -180,11 +180,10 @@ section h2 {
 }
 
 /* ==== MID-SIZE OVERRIDE (700px–1400px) ==== */
-<<<<<<< HEAD
+
 @media (min-width: 700px){
-=======
-@media (min-width: 700px)  {
->>>>>>> 7a13dff6810103f56b47da3d118820441e85e1e9
+
+
   #skills {
     min-height: auto !important;
     height: auto !important;
