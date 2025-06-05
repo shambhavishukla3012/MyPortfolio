@@ -70,7 +70,7 @@ const Contact = () => {
     }
 
     try {
-      const response = await fetch('https://my-portfolio-f933.vercel.app//send-email', {
+      const response = await fetch('https://my-portfolio-f933.vercel.app/send-email', {
         method: 'POST',
         body: formDataToSend,
       });

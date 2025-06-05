@@ -6,7 +6,7 @@ import { faDownload, faEnvelope } from '@fortawesome/free-solid-svg-icons';
 const About = () => {
   const handleViewResume = () => {
     // Open the resume in a new tab
-    window.open('src/Resume/Resume.pdf', '_blank'); 
+    window.open('https://github.com/shambhavishukla3012/MyPortfolio/tree/main/frontend/src/Resume', '_blank'); 
   };
 
   return (
@@ -31,7 +31,7 @@ const About = () => {
         <Row className="align-items-center">
           <Col lg={5} className="text-center mb-4 mb-lg-0">
             <img 
-              src="src\images\me.jpg" 
+              src="https://github.com/shambhavishukla3012/MyPortfolio/blob/main/frontend/src/images/me.JPG" 
               alt="Workspace" 
               className="img-fluid" 
               style={{ 
