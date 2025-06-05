@@ -12,7 +12,7 @@ const Projects = () => {
       description:
         "A Flask-based web application that helps users plan and visualize efficient travel routes with interactive mapping capabilities. Enter list of locations and it will return the optimized path and best way to go to each location to minimize drive time.",
       image:
-        "https://github.com/shambhavishukla3012/MyPortfolio/blob/main/frontend/src/images/ro.jpeg",
+        "src/images/ro.jpeg",
       technologies: [
         "Python",
         "Flask",
@@ -27,7 +27,7 @@ const Projects = () => {
       description:
         "Developed a wellness app with personalized plans integrating search functionality, Google Auth 2FA, and a chat feature. Enhanced scalability with Docker, achieving a 35% reduction in configuration time and faster deployment.",
       image:
-        "https://github.com/shambhavishukla3012/MyPortfolio/blob/main/frontend/src/images/wts.jpeg",
+        "src/images/wts.jpeg",
       technologies: [
         "PostgreSQL",
         "HTML5",
@@ -48,7 +48,7 @@ const Projects = () => {
       description:
         "Engineered a data-driven app to explore 10,000+ Netflix entries, incorporating data cleaning and leveraging PostgreSQL. Streamlined data processing and app performance by 30% through efficient CRUD API implementation.",
       image:
-      "https://github.com/shambhavishukla3012/MyPortfolio/blob/main/frontend/src/images/flixiq.jpeg",
+      "images/flixiq.jpeg",
       technologies: ["PostgreSQL", "HTML5", "CSS3", "Bootstrap", "Flask", "Git"],
       githubLink: "https://github.com/shambhavishukla3012/FlixIQ",
       // demoLink: "#",
@@ -59,7 +59,7 @@ const Projects = () => {
       description:
         "Conducted EDA on 31M records, uncovering key product trends, and optimizing product recommendations. Optimized data processing with Parquet, reducing disk space by 50% and boosting data loading speed for efficient analysis.",
       image:
-        "https://github.com/shambhavishukla3012/MyPortfolio/blob/main/frontend/src/images/hfr.jpeg",
+        "src/images/hfr.jpeg",
       technologies: [
         "Python",
         "Data Mining",
@@ -76,7 +76,7 @@ const Projects = () => {
       description:
         "Configured AWS infrastructure for real-time carbon emissions tracking across 50+ US airports. Automated OpenSky API data ingestion via Lambda and EventBridge, storing in S3.",
       image:
-        "https://github.com/shambhavishukla3012/MyPortfolio/blob/main/frontend/src/images/cs.png",
+        "src/images/cs.png",
       technologies: ["AWS Lambda", "S3", "EC2", "EventBridge"],
       githubLink: "#",
       // demoLink: "#",
