@@ -17,7 +17,7 @@ const PORT = process.env.PORT || 5000;
 
 // Middleware
 app.use(cors({
-  origin: ['http://localhost:5173', 'https://my-portfolio-f933.vercel.app/']
+  origin: ['http://localhost:5173', 'https://my-portfolio-f933.vercel.app/'],  methods: ['POST', 'GET'],
 }));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
